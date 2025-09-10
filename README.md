@@ -85,7 +85,7 @@ This project is licensed under the [Your License Name] License - see the [LICENS
 
 Provide a way for people to get in touch with you if they have questions or feedback. This could be your GitHub profile, a personal website, or an email address.
 
-  * **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
-  * **Email:** your.email@example.com
+  * **GitHub:** (https://github.com/sshrushti23/Blinkit-Analysis/tree/main)
+  * **Email:** sshrushti098@gmail.com
 
 Remember, the goal is to make your project as accessible and understandable as possible. Adjust the sections and content to best fit your project's needs.
